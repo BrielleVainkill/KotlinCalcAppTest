@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinCalcApp</string>
+    <string name="ac">AC</string>
+    <string name="backspace">⌫</string>
+</resources>
